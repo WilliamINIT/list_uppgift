@@ -128,7 +128,7 @@
     width: 20px;
     height: 20px;
     position: absolute;
-    background-image: url('globe.png');
+    background-image: img src="globe.png" alt="globe");
     background-size: cover;
     background-position: center;  
     left: 0;
